@@ -1,4 +1,4 @@
-## Aplicacion para multiplicar Node
+## Aplicación Node para multiplicar 
 
 Esta aplicación genera tablas de multiplicar, que se muestran por consola 
 y también se puede generar un archivo con la tabla que queramos. También 
